@@ -65,7 +65,7 @@ Get the components part of nRF5x SDK. Its not in the repository as it does not h
 Installing nrfutil
 ------
 nrfutil is a Python package and command-line utility that supports Device Firmware Updates (DFU) and cryptographic functionality.
-\n Follow these [instructions](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.tools%2Fdita%2Ftools%2Fnrfutil%2Fnrfutil_installing.html&cp=5_5_1) to install this utility.
+\n Follow these [instructions](https://infocenter.nordicsemi.com/topic/ug_nrfutil/UG/nrfutil/nrfutil_installing.html) to install this utility.
 
 Setting up IDE
 ------
